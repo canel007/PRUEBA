@@ -1,0 +1,13 @@
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\bin\Debug\ProgramacionCapas.exe.config
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\obj\Debug\ProgramacionCapas.csprojResolveAssemblyReference.cache
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\obj\Debug\ProgramacionCapas.Properties.Resources.resources
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\obj\Debug\ProgramacionCapas.csproj.GenerateResource.Cache
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\bin\Debug\ProgramacionCapas.exe
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\bin\Debug\ProgramacionCapas.pdb
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\bin\Debug\CapaLogica.dll
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\bin\Debug\CapaDatos.dll
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\bin\Debug\CapaLogica.pdb
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\bin\Debug\CapaDatos.pdb
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\obj\Debug\ProgramacionCapas.Form2.resources
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\obj\Debug\ProgramacionCapas.exe
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\ProgramacionCapas\obj\Debug\ProgramacionCapas.pdb

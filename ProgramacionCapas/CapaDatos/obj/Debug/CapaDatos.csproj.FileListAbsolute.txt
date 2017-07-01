@@ -1,0 +1,5 @@
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\canel\documents\visual studio 2015\Projects\ProgramacionCapas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Canel\documents\visual studio 2015\Projects\ProgramacionCapas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
